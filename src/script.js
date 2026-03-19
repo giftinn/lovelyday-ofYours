@@ -14,7 +14,7 @@ const stations=[
 f:88.7,
 html:`
 <div class="songCard">
-<img class="cover" src="src/4.jpg">
+<img class="cover" src="src/pict.jpg">
 <div class="songInfo">
 <div>Waltz for Moon</div>
 <div style="font-size:12px;opacity:.7;margin-bottom:10px">Hodge</div>
@@ -110,13 +110,12 @@ html:`
 <span class="signal">TRANSMISSION START</span><br>
 
 
-All these months with you feels both long and short at the same time. Long, because we’ve shared so many moments, memories, and feelings together. Short, because every day with you still feels new and exciting to me.
+Happy birthday. 
+I hope this year brings you more happiness than you expect, more peace in your heart, and more clarity in everything you’re going through. I hope you grow into an even better version of yourself and achieve all the things you’ve been quietly wishing for.
 
-Thank you for staying, for being patient with me, and for loving me even when I’m not at my best. You make my days brighter, my problems lighter, and my heart calmer. Being with you is one of the best things that has ever happened to me.
+May your days be filled with good moments, genuine smiles, and people who truly care about you. I hope you stay strong through every challenge and never lose the spark that makes you, you.
 
-I hope we continue growing together, learning about each other, and making more memories that we can look back on someday.
-
-I don’t know what the future will look like, but I know that having you in my life is something I’m truly grateful for. Happy mensiversary to us, and I hope this is only the beginning of many more memories, laughs, and moments together.
+Wishing you nothing but the best today and always.
 
 
 <span class="signal">END SIGNAL</span>
